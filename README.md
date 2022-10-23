@@ -14,6 +14,10 @@ Step 3: Using the np.linalg.eig(), we get two results (first is eigenvalue and s
 Step 4: print the eigenvectors and eigen values by the print statement
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 import numpy as np
 a = np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
